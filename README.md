@@ -14,5 +14,5 @@
 #### 使用者情境設計: 黃彥欽
 
 ## 甘特圖
-
+![Gantt Chart](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/Gantt%20Chart.png)
 ## PERT/CPM

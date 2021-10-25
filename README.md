@@ -1,6 +1,6 @@
 # SystemsAnalysisand_Poject
 
-## 主題: 裝忙小幫手 :smiling_face_with_tear:
+## 主題: 裝忙小幫手:smiling_face_with_tear:
 #### 組長:C108118118 詹忠祐
 #### 組員:C108118112 黃彥欽
 #### 組員:C108118119 邱宥烽

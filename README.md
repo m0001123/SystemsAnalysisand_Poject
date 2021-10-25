@@ -28,6 +28,9 @@
 * 程式風格統一
 * 維護性
 
+## 使用案例圖
+![使用案例圖](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.jpg?raw=true)
+
 ## 使用案例說明
 |使用案例名稱|偽裝功能|
 |:---|:---|

@@ -16,3 +16,6 @@
 ## 甘特圖
 ![Gantt Chart](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/Gantt%20Chart.png)
 ## PERT/CPM
+![PERT/CPM](https://i.imgur.com/DiPLuaD.jpg)
+
+

@@ -72,3 +72,6 @@
 |先決條件|使用者點擊通話按鈕|
 |後置條件|通話系統故障|
 |假設|無|
+
+## DFD
+![DFD](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/DFD.jpg)

@@ -75,3 +75,6 @@
 
 ## DFD
 ![DFD](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/DFD.jpg)
+
+## DFD0
+![DFD0](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/DFD0.jpg)

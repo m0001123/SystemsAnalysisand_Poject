@@ -104,3 +104,6 @@
 ![分鏡圖Messenger](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%88%86%E9%8F%A1%E5%9C%96Messenger.png)
 ## 分鏡圖Line
 ![分鏡圖Line](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%88%86%E9%8F%A1%E5%9C%96Line.png)
+
+# 實體關係圖(ERD)
+![實體關係圖](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%AF%A6%E9%AB%94%E9%97%9C%E4%BF%82%E5%9C%96.png)

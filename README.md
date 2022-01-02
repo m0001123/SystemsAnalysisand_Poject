@@ -81,17 +81,17 @@
 
 # 循序圖及活動圖
 ## 偽圖示功能
-![循序圖1]
-![活動圖1]
+![循序圖1](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%961.png?raw=true)
+![活動圖1](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%961.png?raw=true)
 
 ## 偽聊天功能
-![循序圖2]
-![活動圖2]
+![循序圖2](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%962.png?raw=true)
+![活動圖2](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%962.png?raw=true)
 
 ## 偽通話功能
-![循序圖3]
-![活動圖3]
+![循序圖3](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%963.png?raw=true)
+![活動圖3](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%963.png?raw=true)
 
 ## 偽通知功能
-![循序圖4]
-![活動圖4]
+![循序圖4](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%964.png?raw=true)
+![活動圖4](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%964.png?raw=true)

@@ -79,6 +79,10 @@
 ## DFD0
 ![DFD0](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/DFD0.jpg)
 
+## UML類別圖
+![UML類別圖](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/UML%E9%A1%9E%E5%88%A5%E5%9C%96.png?raw=true)
+===
+
 # 循序圖及活動圖
 ## 偽圖示功能
 ![循序圖1](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%961.png?raw=true)

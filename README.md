@@ -98,3 +98,7 @@
 ## 偽通知功能
 ![循序圖4](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%964.png?raw=true)
 ![活動圖4](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%964.png?raw=true)
+
+## 分鏡圖
+![分鏡圖Messenger](https://raw.githubusercontent.com/m0001123/SystemsAnalysisand_Poject/main/%E5%88%86%E9%8F%A1%E5%9C%96Messenger.png)
+![分鏡圖Line](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%88%86%E9%8F%A1%E5%9C%96Line.png)

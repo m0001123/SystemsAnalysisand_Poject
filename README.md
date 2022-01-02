@@ -109,4 +109,4 @@
 ![實體關係圖](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E5%AF%A6%E9%AB%94%E9%97%9C%E4%BF%82%E5%9C%96.png)
 
 # 簡報
-[簡報](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E7%AC%AC%E4%B8%83%E7%B5%84%E2%80%94%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88.pptx)
+[簡報](https://github.com/m0001123/SystemsAnalysisand_Poject/blob/main/%E7%AC%AC%E4%B8%83%E7%B5%84%E2%80%94%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88.pptx?raw=true)
